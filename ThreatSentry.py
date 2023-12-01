@@ -57,7 +57,7 @@ def check_virustotal(ip_addresses, api_key):
 
 if __name__ == "__main__":
     # Provide your VirusTotal API key
-    api_key = "390d7d312ce7384e23d1775d492a3877908104c71eb2a8689c4777e8557292f3"
+    api_key = "your_api_key"
 
     # Extract and save Foreign Addresses
     foreign_addresses = extract_foreign_addresses()
