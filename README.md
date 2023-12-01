@@ -30,6 +30,6 @@ In your project, use the API key to authenticate requests.
 Replace 'your_api_key' in the code with your actual API key.
    
 ## Usage
-   python checkvirustotal.py  > output.txt
+   python ThreatSentry.py  > output.txt
 
    
