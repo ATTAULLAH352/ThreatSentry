@@ -6,10 +6,15 @@ Threat Intelligence: Analyzing Active Connections and Ports on Windows System fo
 
 1. Clone the repository.
    
-   git clone https://github.com/yourusername/yourproject.git
-   cd yourproject
+git clone https://github.com/ATTAULLAH352/ThreatSentry.git
 
-##follow these steps to configure the VirusTotal API:
+cd yourproject
+
+nano ThreatSentry.py
+
+ configure the VirusTotal API 
+
+##follow these steps:
 
 Obtain API Key:
 
